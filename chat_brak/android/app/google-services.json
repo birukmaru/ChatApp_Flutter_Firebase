@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664812122748",
+    "project_id": "chatbrak-88eb5",
+    "storage_bucket": "chatbrak-88eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664812122748:android:e39775eae0bc662aeccff9",
+        "android_client_info": {
+          "package_name": "com.example.chat_brak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-G1IydX1I9YalKT8ZCe_BtjB2OO9gMok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
